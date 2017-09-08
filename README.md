@@ -1,1 +1,1 @@
-# Presentation "Transactions dans une archi microservices"
+Repository contenant les présentations données au cours de diverses conférences / BBL
